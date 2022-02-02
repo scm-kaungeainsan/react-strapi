@@ -1,0 +1,19 @@
+.error {
+    color: red;
+}
+.btn-cover {
+    text-align: center;
+}
+.update-btn {
+    width: 40%;
+    /* background-color: darkslategrey; */
+}
+.row {
+    margin: 15px;
+}
+.add-form-cover {
+    padding-top: 20px;
+}
+.login-container {
+    text-align: center;
+}

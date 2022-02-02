@@ -1,0 +1,17 @@
+.logo {
+    width: 100%;
+    height: auto;
+    /* clear: both;
+    float: left; */
+    border-bottom: 1px solid #eccb6b;
+    text-align: left;
+    /* padding-left: 20px;
+    padding-right: 20px; */
+}
+.header-logo {
+    cursor: pointer;
+}
+.logo-k {
+    color: goldenrod;
+    text-decoration: underline;
+}
